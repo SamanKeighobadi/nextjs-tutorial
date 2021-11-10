@@ -1,6 +1,11 @@
+import Head from 'next/head'
+
 const about = () => {
   return (
     <div>
+      <Head>
+        <title>About Page</title>
+      </Head>
       <h1>About</h1>
       <p>
         Duis laborum ut enim tempor qui incididunt ea occaecat in sint. Id
