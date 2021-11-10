@@ -1,8 +1,8 @@
 
 export default function Footer() {
     return (
-        <div>
+        <footer>
             <p>Powerd by : saman.keighobadi@gmail.com</p>
-        </div>
+        </footer>
     )
 }

@@ -1,7 +1,7 @@
 
 export default function Home() {
   return (
-    <div >
+    <div className='' >
       <h1>Home</h1>
       <p>
         Ex qui consequat est et. Nulla elit excepteur et aliquip. Quis enim
