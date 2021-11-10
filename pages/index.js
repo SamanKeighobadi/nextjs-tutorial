@@ -1,8 +1,7 @@
-import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div >
       <h1>Home</h1>
       <p>
         Ex qui consequat est et. Nulla elit excepteur et aliquip. Quis enim
