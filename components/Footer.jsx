@@ -2,7 +2,7 @@
 export default function Footer() {
     return (
         <footer>
-            <p>Powerd by : saman.keighobadi@gmail.com</p>
+            <p><strong>Powerd by :</strong> saman.keighobadi@gmail.com</p>
         </footer>
     )
 }
